@@ -32,15 +32,15 @@
   <FormSettings>
     <Form xsi:type="ItemRead">
       <DesktopSettings>
-        <SourceLocation DefaultValue="https://localhost:44301/Spa/Addin"/>
+        <SourceLocation DefaultValue="https://localhost:44303"/>
         <RequestedHeight>250</RequestedHeight>
       </DesktopSettings>
       <TabletSettings>
-        <SourceLocation DefaultValue="https://localhost:44301/Spa/Addin" />
+        <SourceLocation DefaultValue="https://localhost:44303" />
         <RequestedHeight>250</RequestedHeight>
       </TabletSettings>
       <PhoneSettings>
-        <SourceLocation DefaultValue="https://localhost:44301/Spa/Addin" />
+        <SourceLocation DefaultValue="https://localhost:44303" />
       </PhoneSettings>
     </Form>
   </FormSettings>
